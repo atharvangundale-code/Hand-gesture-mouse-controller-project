@@ -1,0 +1,7 @@
+# AI-Based Hand Gesture Mouse Controller (Version 1.0)
+# Minimal, verified dependencies for Python 3.11+ / Windows
+
+mediapipe>=0.10.14
+opencv-python>=4.8.0
+pyautogui>=0.9.54
+numpy>=1.24.0

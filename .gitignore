@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python byte-code and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local logs and temporary files
+*.log
+temp/
+scratch/
+
+# Large model assets (automatically downloaded on first launch; documented in assets/README.md)
+assets/*.task
